@@ -708,7 +708,7 @@ img.whtlogo{display:block;}
 .navbar-collapse.in {
 	overflow: visible;
 	max-height: none;
-	background: #222;
+	background: white;
 	padding: 0 30px;
 }
 .is-sticky .custom-navbar .nav li a {
@@ -3041,6 +3041,7 @@ h1 {
 	padding-bottom: 0;
 }
 .sticky-wrapper, .navbar-collapse.in {
+	background: white;
 	z-index: 100000;
 }
 .is-sticky .navbar-collapse.in {
